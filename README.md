@@ -1,1 +1,1 @@
-# The todo application in JS, in localstorage
+# The todo application in JS, with localstorage 
