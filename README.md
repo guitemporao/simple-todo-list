@@ -1,2 +1,1 @@
-# todolist
-TodoList w/ Localstorage
+# The todo application in JS, in localstorage
